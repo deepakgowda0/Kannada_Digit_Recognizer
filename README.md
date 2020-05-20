@@ -1,0 +1,6 @@
+# Kannada_Digit_Recognizer
+Kannada handwritten digit recognizer is built using a simple CNN model.
+
+1. Kannada_cnn.py has cnn model.
+2. kannada_cnn_test.py: After running, a window open where you can draw a kannada digit and a corresponding numeral is displayed.
+
